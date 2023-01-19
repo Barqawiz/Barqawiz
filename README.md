@@ -5,5 +5,6 @@ You can click the Preview link to take a look at your changes.
 
  Hi 👋,
 
-- 🌱 I’m currently taking a master of data science at the University of Illinois Urbana-Champaign and working on research to augment human life with machine learning.
-- During my free time, I publish live AI experiments on (Ahmadai.com).
+- 🌱I am pursuing a Master's degree in Data Science at Illinois Urbana-Champaign; my research aims to augment biomedical and clinical tasks using machine learning and language models.
+- 🤖 In my free time, I am passionate about sharing AI experiments on [AhmadAI.com](https://ahmadai.com/),
+- 📚 Additionally, I love writing technical topics and thought-provoking articles on AI. I publish my articles on my [blog](https://albarqawi.medium.com/).
