@@ -11,9 +11,10 @@ You can click the Preview link to take a look at your changes.
 
 **Libraries I published**
 
-<img src="https://static.pepy.tech/personalized-badge/intelli?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=python%20downloads" /> <a href="https://www.jsdelivr.com/package/npm/intellinode" alt="licenses tag">
-    <img src="https://data.jsdelivr.com/v1/package/npm/intellinode/badge" />
+<img src="https://static.pepy.tech/personalized-badge/intelli?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=python%20downloads" /> <a href="https://www.jsdelivr.com/package/npm/intellinode" aria-label="jsDelivr stats">
+  <img src="https://img.shields.io/jsdelivr/npm/hm/intellinode?color=green&label=jsDelivr" />
 </a>
+
 
 - Intellinode [JavaScript npm](https://www.npmjs.com/package/intellinode).
 - Intellinode [Python pip](https://pypi.org/project/intelli/). 
