@@ -5,9 +5,10 @@ You can click the Preview link to take a look at your changes.
 
  Hi 👋,
 
-- I research how machine learning and language models can augment biomedical and clinical tasks  🌱.
+- I build models for real-world biomedical and clinical use 🌱.
 - I also write technical [articles](https://albarqawi.medium.com/) ✍️.
 - Co-founder & CTO [MedWrite AI](https://medwrite.ai/).
+
 
 **Libraries I published**
 
@@ -20,3 +21,6 @@ You can click the Preview link to take a look at your changes.
 - Intellinode [Python pip](https://pypi.org/project/intelli/). 
 - Intellinode [Java maven](https://central.sonatype.com/artifact/io.github.barqawiz/intellijava.core).
 - Shakkala [Python pip](https://pypi.org/project/shakkala/).
+
+<br>
+<img alt="File:Illinois Fighting Illini" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Illinois_Fighting_Illini_logo.svg/250px-Illinois_Fighting_Illini_logo.svg.png" height="40px" >
